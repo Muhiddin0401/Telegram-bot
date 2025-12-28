@@ -10,7 +10,7 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart
 
 # 🔴 BOTFATHER DAN OLINGAN TOKEN
-TOKEN = os.getenv("8293640368:AAGlgEfsAllg1ijOUEvhPc-ZrXK_Ths6W8g")
+TOKEN = "8293640368:AAGlgEfsAllg1ijOUEvhPc-ZrXK_Ths6W8g"
 
 dp = Dispatcher()
 
